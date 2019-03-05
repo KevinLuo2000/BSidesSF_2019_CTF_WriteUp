@@ -27,7 +27,7 @@
 
 快点儿鼠标点击也行，服务器反应不过来
 
-![Screen Shot 2019-03-05 at 11.37.33 AM](/Users/kevinluo/Desktop/Screen Shot 2019-03-05 at 11.37.33 AM.png)
+![Screen Shot 2019-03-05 at 11.37.33 AM](https://ws4.sinaimg.cn/large/006tKfTcgy1g0sd3ssws7j30j50od3zq.jpg)
 
 flag：**CTF{i_beat_the_impossible}**
 
